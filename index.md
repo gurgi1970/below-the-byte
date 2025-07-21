@@ -10,23 +10,28 @@ Here, I plan to explore systems: from retro computing and BASIC to web developme
 
 ---
 
-## What You’ll Find Here
+## What is this?
 
-- **Dev Logs** – Experiments and learning logs from the Apple IIe, Commodore 64, VBA, JavaScript, and more.
-- **Reflections** – Personal insights, growth checkpoints, and creative notes.
-- **Projects** – Tools, trackers, worldbuilding, and TTRPG designs (coming soon).
-- **Milestone Tracking** – My 10k HP journey progress, inspired by Yu-kai Chou.
+**Below the Byte** is my personal blog and documentation space used for following **Yu-Kai Chou's** _<a href="https://10khp.com">10K HP Journey</a>, every task, reflection, or project earns me XP (HP). The goal is to grow towards mastery through slow, consistent progress..
 
----
-
-## Recent Posts
-
-- [Reawakening the Apple IIe](reawakening-apple-iie.html)
-
+You can track my milestone log <a href="https://gurgi1970.github.io/below-the-byte/_pages/milestones.md">here</a>.
 
 ---
 
-## 📈 Want to Follow Along?
+## Repo Structure
 
-Email signup and RSS coming soon. For now, check back anytime or visit the [10k HP Discord](https://10khp.com).
+| File/Folder | Purpose |
+| ----------- | ------- |
+| `index.md` | Main landing page |
+| `About Me` | Personal background and journey info |
+| `_config.yml` | Blog settings (theme, title, etc.) |
 
+---
+
+## Want to Follow Along?
+
+I plan to eventually have a newsletter or email distribution. The blog is public and will be updated regularly as I grow.
+
+Thanks for stopping by.
+
+\- James

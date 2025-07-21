@@ -14,7 +14,7 @@ I was born in 1970, which means I grew up right alongside the golden age of pers
 
 As a kid, I was drawn to machines that didn’t just entertain — they invited me to **create**.  
 - On the **Apple IIe**, I played *Karateka*, *Lode Runner*, *Below the Root*, *Oregon Trail*, and *Zork* — I was facinated with how these games played and enjoyed the entertainment from playing them, but soon I wanted to know how were these games created. I soon learned to code simple BASIC programs that showed menus, animations, and even wrote to disk.
-- The **Commodore 64** introduced me to a whole new style of graphics and sound, and more advanced file operations.
+- The **Commodore 64**, I played *The Bard's Tale*, which introduced me to a whole new style of graphics and sound, and more advanced file operations.
 - The **TI-99/4A** was quirky and different, and it taught me how every machine had its own logic.
 - With the **Atari 2600**, I learned how gameplay could be distilled into something pure and endlessly replayable.
 

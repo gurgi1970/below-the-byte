@@ -13,7 +13,10 @@ markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
 
-# Optional if you want to explicitly declare pages
+header_pages:
+  - _pages/about.md
+  - _pages/milestones.md
+
 collections:
   posts:
     output: true
@@ -23,7 +26,3 @@ defaults:
       path: "_pages"
     values:
       layout: page
-
-header_pages:
-  - _pages/about.md
-  - _posts/2025-07-20-reawakening-apple-iie.md

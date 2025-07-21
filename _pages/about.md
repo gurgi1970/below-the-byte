@@ -22,17 +22,49 @@ Back then, I didn’t know what “software development” was — I just knew I
 
 ---
 
-## Today’s Journey
+## Today's Journey
 
-Now, I’m circling back.  
-I'm working through what I call my **10k HP Journey** — inspired by Yu-kai Chou’s framework for meaningful growth. The goal is to earn 10,000 experience points over time by:
-- Relearning the fundamentals of programming (starting with BASIC, Pascal, Assembly, and moving to Python, JS, and modern web stacks)
-- Building tools, personal projects, and creative systems
-- Exploring worldbuilding, storytelling, and RPG design
-- Tracking and reflecting on everything I learn
+I'm working through what I call my **10K HP Journey** — a personal quest inspired by Yu-kai Chou's framework for meaningful growth and motivation. The goal? To earn 10,000 experience points in each of the major areas of my life, not all at once — but slowly, deliberately, and in a way that reflects how I truly want to grow.
 
-I use this site to **log my journey**, and GitHub to **show my progress**.  
-It’s not about speed — it’s about **depth** and **intent**.
+I’ve done this before in pieces. Now, I’m circling back to do it more intentionally.
+
+---
+
+### Retro Computing & Software Development
+
+I’m retracing the path that sparked my love of computing — starting with languages I used as a kid on the Apple IIe, Commodore 64, and TI-99/4A:
+- Relearning **Apple BASIC**, **TI BASIC**, **Commodore BASIC**, and then moving forward to:
+- **Pascal**, **Fortran**, **BAL**, and **COBOL**
+- Eventually transitioning into **modern languages** like Python, JavaScript, CSS, and full web development stacks
+- Along the way, I'm building personal tools, project logs, and hobbyist systems to support other areas of my journey
+
+---
+
+### Writing, Worldbuilding & RPG Design
+
+Words and worlds matter to me — so I’m spending focused time:
+- Creating deep lore for my fantasy world *Elarindor*
+- Writing short stories and character arcs (like Vaelyn and Toma)
+- Designing tabletop RPG systems and tools grounded in narrative meaning
+
+This is as much about creative expression as it is about discipline and structure.
+
+---
+
+### Health & Wellbeing
+
+This journey only works if I’m around to complete it.
+
+So:
+- I’m tracking daily movement (with a goal of 10,000+ steps a day)
+- Managing blood sugar and insulin carefully
+- Taking time to reflect, recharge, and log mental health progress when needed
+
+---
+
+### Progress, Not Perfection
+
+None of this is rigid or polished. Some days are productive, others are quiet — and that’s okay. What matters is that I keep moving forward, a few HP at a time.
 
 ---
 

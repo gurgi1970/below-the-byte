@@ -1,10 +1,8 @@
 ---
-title: Posts
+title: Recent Posts
 layout: page
 permalink: /posts/
 ---
-
-## Recent Posts
 
 <ul>
   {% for post in site.posts limit:5 %}

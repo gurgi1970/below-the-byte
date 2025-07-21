@@ -22,7 +22,7 @@ Here, I plan to explore systems: from retro computing and BASIC to web developme
 ## Recent Posts
 
 - [Reawakening the Apple IIe](reawakening-apple-iie.html)
-- _(Add more links here as you create posts)_
+
 
 ---
 

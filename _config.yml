@@ -23,3 +23,6 @@ defaults:
       path: "_pages"
     values:
       layout: page
+
+header_pages:
+  - _pages/about.md

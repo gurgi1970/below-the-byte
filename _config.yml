@@ -20,6 +20,7 @@ header_pages:
   - _pages/about.md
   - _pages/milestones.md
   - _pages/latest.md
+  - _pages/posts.md
 
 collections:
   posts:

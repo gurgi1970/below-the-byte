@@ -14,7 +14,7 @@ Wow did the memories flood back. I would have loved to boot up a game of **_Kara
 
 ### What I Learned
 
-The structure came back quicker that I expected. While redumentary, the logic remains elegant. I remembered the trhirll of booting up the computer while sitting in computer lab at school and getting ready to code or play a game.
+The structure came back quicker that I expected. While redumentary, the logic remains elegant. I remembered the thrill of booting up the computer while sitting in computer lab at school and getting ready to code or play a game.
 
 ### What's Next?
 

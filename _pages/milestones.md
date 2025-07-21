@@ -1,7 +1,7 @@
 ---
 title: "10k HP Tracker"
-permalink: /milestones/
 layout: single
+permalink: /milestones/
 ---
 
 ## 10,000 HP Journey

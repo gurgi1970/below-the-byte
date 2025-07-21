@@ -11,7 +11,7 @@ Here, I explore systems: from retro computing and BASIC to web development, stor
 
 ---
 
-## 📘 What You’ll Find Here
+## What You’ll Find Here
 
 - **Dev Logs** – Experiments and learning logs from the Apple IIe, Commodore 64, VBA, JavaScript, and more.
 - **Reflections** – Personal insights, growth checkpoints, and creative notes.
@@ -20,14 +20,14 @@ Here, I explore systems: from retro computing and BASIC to web development, stor
 
 ---
 
-## 🔧 Recent Posts
+## Recent Posts
 
 - [Reawakening the Apple IIe](reawakening-apple-iie.html)
-- _(Add more links here as you create posts)_
+
 
 ---
 
-## 👋 About Me
+## About Me
 
 Hi, I’m James.  
 I grew up on the Apple IIe. Now, I’m rebuilding that spark — one byte at a time.
@@ -36,7 +36,7 @@ You can [learn more here](about.html).
 
 ---
 
-## 📈 Want to Follow Along?
+## Want to Follow Along?
 
 Email signup and RSS coming soon. For now, check back anytime or visit the [10k HP Discord](https://10khp.com).
 

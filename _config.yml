@@ -2,3 +2,24 @@ title: Below the Byte
 description: Exploring systems, one byte at a time.
 theme: minima
 
+baseurl: "/below-the-byte"
+url: "https://gurgi1970.github.io"
+
+author:
+  name: James
+  bio: 10k HP Journey | Retro Dev | Curious Mind
+
+markdown: kramdown
+paginate: 5
+paginate_path: "/page:num/"
+
+# Optional if you want to explicitly declare pages
+collections:
+  posts:
+    output: true
+
+defaults:
+  - scope:
+      path: "_pages"
+    values:
+      layout: page

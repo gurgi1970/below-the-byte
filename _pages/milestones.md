@@ -14,10 +14,11 @@ Inspired by Yu-kai Chou’s 10,000 HP framework.
 - ✅ Major Task = 50 HP
 - 💡 Insight or Reflection = 10–20 HP
 
-### Current HP: 0 / 10,000
+### Current HP: 10 / 10,000
 
 | Date       | Action                           | HP |
 |------------|----------------------------------|----|
+| 2025-07-20 | Turned on my Apple IIe and started reliving the experience of working on an 8-bit computer | 10 XP |
 
 ### Milestones
 - [ ] 500 HP – First Level Up

@@ -13,9 +13,11 @@ markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
 
+include:
+  - _pages
+
 header_pages:
   - _pages/about.md
-  - _pages/milestones.md
 
 collections:
   posts:

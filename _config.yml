@@ -1,0 +1,21 @@
+title: Below the Byte
+email: 
+description: >- 
+  Exploring systems, one byte at a time.
+baseurl: "" 
+url: "https://gurgi1970.github.io"
+github_username: gurgi1970
+
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+author:
+  name: James
+  avatar: "/assets/images/avatar.png"
+  bio: "10k HP Journey | Retro Dev | Curious Mind"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/gurgi1970"

@@ -12,19 +12,19 @@ I was born in 1970, which means I grew up right alongside the golden age of pers
 
 ## The Early Bytes
 
-As a kid, I was drawn to machines that didn’t just entertain — they invited me to **create**.  
-- On the **Apple IIe**, I played *Karateka*, *Lode Runner*, *Below the Root*, *Oregon Trail*, and *Zork* — I was facinated with how these games played and enjoyed the entertainment from playing them, but soon I wanted to know how were these games created. I soon learned to code simple BASIC programs that showed menus, animations, and even wrote to disk.
+As a kid, I was drawn to machines that didn’t just entertain &ndash; they invited me to **create**.  
+- On the **Apple IIe**, I played *Karateka*, *Lode Runner*, *Below the Root*, *Oregon Trail*, and *Zork* &ndash; I was facinated with how these games played and enjoyed the entertainment from playing them, but soon I wanted to know how were these games created. I soon learned to code simple BASIC programs that showed menus, animations, and even wrote to disk.
 - The **Commodore 64**, I played *The Bard's Tale*, which introduced me to a whole new style of graphics and sound, and more advanced file operations.
 - The **TI-99/4A** was quirky and different, and it taught me how every machine had its own logic.
 - With the **Atari 2600**, I learned how gameplay could be distilled into something pure and endlessly replayable.
 
-Back then, I didn’t know what “software development” was — I just knew I wanted to make the screen respond to me.
+Back then, I didn’t know what “software development” was &ndash; I just knew I wanted to make the screen respond to me.
 
 ---
 
 ## Today's Journey
 
-I'm working through what I call my **10K HP Journey** — a personal quest inspired by Yu-kai Chou's framework for meaningful growth and motivation. The goal? To earn 10,000 experience points in each of the major areas of my life, not all at once — but slowly, deliberately, and in a way that reflects how I truly want to grow.
+I'm working through what I call my **10K HP Journey** &mdash; a personal quest inspired by Yu-kai Chou's framework for meaningful growth and motivation. The goal? To earn 10,000 experience points in each of the major areas of my life, not all at once &mdash; but slowly, deliberately, and in a way that reflects how I truly want to grow.
 
 I’ve done this before in pieces. Now, I’m circling back to do it more intentionally.
 

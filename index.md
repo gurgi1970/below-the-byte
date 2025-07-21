@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Below the Byte
+layout: home
+title: ""
+permalink: /
 ---
 
 # Welcome to Below the Byte

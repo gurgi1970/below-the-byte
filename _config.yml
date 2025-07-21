@@ -19,6 +19,7 @@ include:
 header_pages:
   - _pages/about.md
   - _pages/milestones.md
+  _ _pages/latest.md
 
 collections:
   posts:

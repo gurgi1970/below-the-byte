@@ -4,8 +4,6 @@ layout: page
 permalink: /about/
 ---
 
-# About Me
-
 Hi, I’m James.
 
 I was born in 1970, which means I grew up right alongside the golden age of personal computing and home consoles. My earliest memories of technology include the satisfying click of Apple IIe keys, the bright blip of the Atari 2600, and the hypnotic hum of a Commodore 64 loading a game off a 5.25" disk.

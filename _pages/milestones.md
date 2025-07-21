@@ -1,6 +1,6 @@
 ---
 title: "10k HP Tracker"
-layout: single
+layout: page
 permalink: /milestones/
 ---
 

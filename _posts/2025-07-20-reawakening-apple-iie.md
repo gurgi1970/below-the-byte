@@ -2,7 +2,7 @@
 title: "Reawakening the Apple IIe"
 date: 2025-07-20
 author: James
-layout: single
+layout: page
 categories: [retro, dev-log]
 ---
 
